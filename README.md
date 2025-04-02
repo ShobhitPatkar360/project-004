@@ -5,10 +5,7 @@
 To create REST API in order to connect API Gateway with the services like SNS and Lambda. Also. test for mock api.
 
 
-[![](images/placeholder1.jpg)](https://youtu.be/-aFbS7njlkc)
-
-
-[https://youtu.be/gITQzGrajJM?si=nu3g9JpMPwHS8jn7](https://youtu.be/gITQzGrajJM?si=nu3g9JpMPwHS8jn7)
+[![](images/placeholder1.jpg)](https://youtu.be/gITQzGrajJM?si=nu3g9JpMPwHS8jn7)
 
 # Architecture
 
@@ -61,7 +58,8 @@ Amazon API Gateway offers features such as the following:
     3. <invoke_url>/sns (post request)
         1. Give your TopicArn and Message as Query Params
 
-[https://youtu.be/7sJbCEj-0Xw?si=BNR10LYdfQCmyEG0](https://youtu.be/7sJbCEj-0Xw?si=BNR10LYdfQCmyEG0)
+
+[![](images/placeholder1.jpg)](https://youtu.be/7sJbCEj-0Xw?si=BNR10LYdfQCmyEG0)
 
 # Additional Instructions
 
