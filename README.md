@@ -4,6 +4,10 @@
 
 To create REST API in order to connect API Gateway with the services like SNS and Lambda. Also. test for mock api.
 
+
+[![](https://youtu.be/-aFbS7njlkc)](https://youtu.be/-aFbS7njlkc)
+
+
 [https://youtu.be/gITQzGrajJM?si=nu3g9JpMPwHS8jn7](https://youtu.be/gITQzGrajJM?si=nu3g9JpMPwHS8jn7)
 
 # Architecture
