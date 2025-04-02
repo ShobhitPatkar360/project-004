@@ -42,11 +42,12 @@ Amazon API Gateway offers features such as the following:
 3. Now we will go to Api Gateway and create an API (`my-demo-api`) with REST API (public one). 
 4. Create 1st resource at /mock
 5. Create a method for mock (get, integration type as mock). Then edit integration response with mapping template (application/json). Keep valid json format.
-
-`{
+```
+{
   "statusCode": 200,
   "message": "This is customized mock response"
-}`
+}
+```
 6. Then create a new resource at /lambda 
 7. Crate a get method for lambda (get, integration type as lambda).Then give your Lambda function name `api-return-ip`. Don’t forget to enable the lambda proxy integraion. (Permission automaticlly created for Lambda function to be invoked by API Gateway).
 8. Create a role for API Gateway to invoke SNS Topic
