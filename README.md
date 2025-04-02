@@ -8,7 +8,7 @@ To create REST API in order to connect API Gateway with the services like SNS an
 
 # Architecture
 
-![image.png](Mini%20Project%20Set%20up%20Api%20Gateway%20for%20mock,%20SNS%20and%20%201c218285ce4e80529740f48673a0a7de/image.png)
+![image.png](images/image.png)
 
 # Requirements
 
